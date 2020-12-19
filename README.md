@@ -5,7 +5,7 @@ I'm computer applications student from India, I'm currently increasing my knowle
 
 - **Languages learnt: HTML, C, C++, JAVA**
 - **Currently learning: JavaScript, Node.js, Python, Oracle,**
-- **Currently working on: **
+- **Currently working on:**
 
 ### Recommended editors
 [![Atom](https://img.shields.io/badge/atom-28b463.svg?style=for-the-badge&logo=atom)](https://atom.io/)
