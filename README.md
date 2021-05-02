@@ -1,4 +1,4 @@
-# Hello, it's Patrick! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+# Hello, it's Vishal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
 I'm computer applications student from India, I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing to open source community!
 ## Programming Languages:
